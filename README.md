@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Cryptopiaa01
-- 👀 I’m interested in blockchain technologies
-- 🌱 I’m currently learning running node
+- 👀 I’m interested in blockchain technologies and investor
+- 🌱 I’m currently running node in some testnets and mainnets!
+- 
 
 
 <!---
